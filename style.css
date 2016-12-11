@@ -1,0 +1,33 @@
+.block {
+  width: 500px;
+  margin: 0 auto;
+}
+.image {
+  width: 500px;
+  margin: 0 auto;
+}
+img {
+  width: 200px;
+  padding-left: 150px;
+  padding-bottom: 25px;
+}
+.h1 {
+      text-transform: uppercase;
+      font-weight: bold;
+      padding: 25px 0px;
+      text-align: center;
+  }
+.block1 {
+      border-bottom: 1px solid grey;
+      padding-bottom: 25px;
+    }
+.block2 {
+        border-bottom: 1px solid grey;
+      }
+.block3 {
+          border-bottom: 1px solid grey;
+          padding-bottom: 5px;
+        }
+ .info {
+            padding-left: 35px;
+          }
